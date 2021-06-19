@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">India Covid Stats</string>
+
+    <string name="details">Details</string>
+    <string name="total_deaths">Total Deaths</string>
+    <string name="top_headlines">Top Headlines</string>
+
+    <string name="last_updated">Last Updated</string>
+    <string name="news">News</string>
+    <string name="state_wise_data">State wise data</string>
+
+    <string name="active_cases">Active Cases</string>
+    <string name="confirmed_cases">Confirmed Cases</string>
+    <string name="recovered_cases">Recovered Cases</string>
+    <string name="deaths">Deaths</string>
+</resources>
